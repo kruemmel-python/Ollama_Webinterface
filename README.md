@@ -1,6 +1,7 @@
-```markdown
+
 # Ollama Gradio App mit Datei-Upload
 
+![image](https://github.com/user-attachments/assets/6a11b726-6be1-4b27-8f92-6b1e65fef1a7)
 
 
 ## Inhaltsverzeichnis
